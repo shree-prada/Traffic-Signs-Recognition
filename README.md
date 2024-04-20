@@ -89,8 +89,6 @@ Don't forget to give the project a star! Thanks again!
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## Authors
-
 ########################################
 
 In order to run the code make sure you pre-install all the dependencies.
